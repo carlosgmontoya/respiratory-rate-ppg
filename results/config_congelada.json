@@ -1,0 +1,14 @@
+{
+  "ventana_s": 30,
+  "paso_s": 10,
+  "rpm_min": 6,
+  "rpm_max": 35,
+  "lp_fft_hz": 0.5,
+  "lp_art_hz": 0.5,
+  "umbral_art": 3.0,
+  "umbral_anot": 2.0,
+  "q_hibrido": 0.4,
+  "borde_rpm": 0.5,
+  "fs_red": 125,
+  "dise\u00f1o": "BIDMC 53 sujetos; congelado antes de abrir CapnoBase"
+}
